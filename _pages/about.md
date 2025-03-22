@@ -11,9 +11,9 @@ I've always loved reading and writing, so naturally, I studied English. In unive
 If that's my definitive answer to why I love reading and writing so much, it makes sense that I found an affinity with technology. While taking classes for my minor, I explored hot topics in tech such as cloud computing, information security, instructional design, generative AI, Python, and cybersecurity. There's always a new trend emerging in the tech industry, which makes things exciting yet overwhelming. Mass layoffs during a bust cycle add to the uncertainty. Despite these things, I see myself working in the tech industry for a while—as long it allows me to continue learning and growing. 
 
 So, why technical writing?
-1. I love the idea of breaking down complex topics or products to make it easy for others to understand, whether that’s through words, images, or other formats. There’s something exciting about making complicated information accessible. 
-2. I enjoy the challenge of organizing information and designing content. It feels like solving a puzzle, and I love figuring out how to set up knowledge bases so that they work well for everyone.
-3. I enjoy learning new things and helping others learn new things. As a technical writer, you get to do both—by collaborating with subject matter experts (SMEs) and knowing your audience inside and out.
+1. I love breaking down complex topics or products to make it easy for others to understand, whether that’s through words, images, or other formats.
+2. I enjoy the challenge of organizing information and designing content. It feels like solving a puzzle, and figuring out how to set up knowledge bases to work across multiple teams is part of the process.
+4. I enjoy learning new things and helping others learn new things. As a technical writer, you get to do both—by collaborating with experts and knowing your audience inside and out.
 
 ## My Interests
 Outside of work, I love to travel. I studied abroad at Trinity College Dublin in Dublin, Ireland in the spring of 2023, where I went all over Ireland and Europe (my top three cities were Prague, Amsterdam, and Edinburgh). My current travel bucket list includes Glacier National Park, Iceland, and South Korea. I've been scrapbooking my travel adventures recently, which is the reason why I hoard every single train or plane ticket I acquire.
@@ -22,6 +22,6 @@ Outside of work, I love to travel. I studied abroad at Trinity College Dublin in
 
 <img src="https://github.com/katherine-holtz/katherine-holtz.github.io/raw/b6c81cd7c14b0213266c136b79a8456717ac04e9/images/scrapbook.jpg" alt="Scrapbook" width="400"/>
 
-I've also played indoor and beach volleyball for 14 years. Although I don't play competitively anymore, I try to join every casual league or intramural team I come across. Aside from volleyball, I love to run. I ran my first half marathon during my last semester of university, and I hope to run my first marathon next year. I'm holding out hope that I'll be Boston-bound someday. 
+I've also played indoor and beach volleyball for 14 years. Although I don't play competitively anymore, I try to join every casual league or intramural team I come across. Aside from volleyball, I love to run. I ran my first half marathon during my last semester of university, and I hope to run my first marathon next year. 
 
 Lastly, I've always been a creative writer. I wrote stories on the school bus in sixth grade, and although fiction writing is something I've lost touch with during university, I know I'll be disappointing my younger self if I never try to publish my own novel. My favorite genres, a reflection of my time working at the Cyber Crimes Unit, are anything that dives into the mystery, thriller, and psychological realms.  
