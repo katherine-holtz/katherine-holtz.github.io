@@ -46,6 +46,7 @@ Palo Alto, CA
 - Microsoft Office Products (Word, Outlook, Excel)
 - Google Workspace Products
 - Collaboration Software (Teams, Zoom, Slack)
+- JIRA/Confluence
 - Monday.com
 - HTML/CSS
 - Markdown
@@ -58,7 +59,6 @@ Palo Alto, CA
 
 *Technology*
 - Amazon Web Services (AWS)
-- JIRA/Confluence
 - Paligo
 - SnagIt
 - Command Line
@@ -74,3 +74,5 @@ Palo Alto, CA
 - GitHub/Git
 - Python
 - Pendo.io
+- Pendo
+- Helpjuice
