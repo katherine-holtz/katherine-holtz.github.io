@@ -12,8 +12,8 @@ If that's my definitive answer to why I love reading and writing so much, it mak
 
 So, why technical writing?
 1. I love breaking down complex topics or products to make it easy for others to understand, whether that’s through words, images, or other formats.
-2. I enjoy the challenge of organizing information and designing content. It feels like solving a puzzle, and figuring out how to set up knowledge bases to work across multiple teams is part of the process.
-4. I enjoy learning new things and helping others learn new things. As a technical writer, you get to do both—by collaborating with experts and knowing your audience inside and out.
+2. I enjoy the challenge of organizing information and designing content. 
+4. I enjoy learning new things and helping others learn new things. As a technical writer, you get to do both.
 
 ## My Interests
 Outside of work, I love to travel. I studied abroad at Trinity College Dublin in Dublin, Ireland in the spring of 2023, where I went all over Ireland and Europe (my top three cities were Prague, Amsterdam, and Edinburgh). My current travel bucket list includes Glacier National Park, Iceland, and South Korea. I've been scrapbooking my travel adventures recently, which is the reason why I hoard every single train or plane ticket I acquire.
